@@ -61,3 +61,4 @@ c:\users\javier ignacio\source\repos\DiplomadoBotsQnAMaker\DiplomadoBotsQnAMaker
 c:\users\javier ignacio\source\repos\DiplomadoBotsQnAMaker\DiplomadoBotsQnAMaker\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
 c:\users\javier ignacio\source\repos\DiplomadoBotsQnAMaker\DiplomadoBotsQnAMaker\obj\Debug\Bot Application.dll
 c:\users\javier ignacio\source\repos\DiplomadoBotsQnAMaker\DiplomadoBotsQnAMaker\obj\Debug\Bot Application.pdb
+C:\Users\Javier Ignacio\source\repos\DiplomadoBotsQnAMaker\DiplomadoBotsQnAMaker\obj\Debug\DiplomadoBotsQnAMaker.csprojResolveAssemblyReference.cache
