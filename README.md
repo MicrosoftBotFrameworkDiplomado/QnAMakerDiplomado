@@ -4,14 +4,14 @@ Un bot que responde preguntas frecuentes (Frequently Asked Questions - FAQ). Se 
 ## Setup del BOT
 
 Primero hay que hacer unos ajustes para que pueda conectarse a la API de QnA Maker, esto se realiza en Web.config
-![Web.config en el Explorador de Soluciones](capturas/explorador.PNG)
+![Web.config en el Explorador de Soluciones](capturas/explorador.png)
 
 Se deben agregar dos KEYS corrspondientes al WebService de QnA Maker
-![Web.config](capturas/webconfig.PNG)
+![Web.config](capturas/webconfig.png)
 
 Las KEYS se encuentran en el código del servicio 
-![Servicios QnA Maker](capturas/servicios.jpg)
-![Código y Keys QnA](capturas/keys.jpg)
+![Servicios QnA Maker](capturas/servicios.png)
+![Código y Keys QnA](capturas/keys.png)
 
 
 
